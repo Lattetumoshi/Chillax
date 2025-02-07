@@ -101,9 +101,9 @@
 
     /* For accent color to take full effect must need to change both */
     /* chillax colours rgb */
-    --accentcolor: 251, 84, 84;
+    --accentcolor: 87, 49, 140;
     /* chillax colours hex */
-    --accentcolorV2: #fb5454;
+    --accentcolorV2: #57318c;
 
 
     /* settings modal root */
